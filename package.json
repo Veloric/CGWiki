@@ -1,0 +1,18 @@
+{
+  "name": "cgwiki",
+  "version": "1.0.0",
+  "description": "A wiki for the Chaldea Guru's youtube channel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Veloric/CGWiki"
+  },
+  "author": "Veloric",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
